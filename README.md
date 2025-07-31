@@ -1,25 +1,34 @@
-👋 Hi, I'm Rehan – a passionate Backend Developer with a focus on crafting efficient and scalable solutions. I specialize in Ruby on Rails, but I love exploring new technologies to enhance my skills and deliver impactful applications.
+👋 Hi, I'm Rehan – a passionate Full Stack Developer with a strong focus on Ruby on Rails. I specialize in crafting modular, scalable, and secure web applications with clean architecture and professional user experiences.
+💻 What I Do
+Build robust user and tenant management systems for multi-tenant architectures.
 
-💻 What I Do:
-Build robust user management systems and design feature-rich admin dashboards.
-Implement efficient attendance systems with advanced functionalities like break tracking and punch-in/out management.
-Create subscription-based apps with modular access control.
-Write comprehensive test suites using RSpec and FactoryBot to ensure code quality.
+Design feature-rich admin dashboards with subscription-based access control.
 
-🚀 What I’m Excited About:
-Security improvements, including testing cameras and strengthening databases with strong passwords.
-Optimizing workflows with tools like Importmap and StimulusJS.
-Exploring creative web features, like interactive birthday surprises 🎉.
+Develop advanced attendance systems with break tracking, punch in/out logs, and manual entries.
 
-🛠 Tech Stack:
+Implement reusable UI components, helpers, and write comprehensive test suites using RSpec and FactoryBot.
+
+Optimize workflows using tools like Importmap and StimulusJS.
+
+🚀 What I’m Excited About
+Strengthening app security through better authentication and secure data handling.
+
+Experimenting with camera integrations and database hardening practices.
+
+Exploring creative touches in UI, like interactive birthday surprises 🎉 and micro-interactions to enhance engagement.
+
+🛠 Tech Stack
 Languages: Ruby, JavaScript
-Frameworks: Ruby on Rails, Bootstrap, Tailwend
+
+Frameworks & Libraries: Ruby on Rails, Bootstrap, Tailwind CSS
+
 Testing Tools: RSpec, FactoryBot
-Other Tools: GitHub Codespaces, Ubuntu Pro, Figma
 
-📫 Let’s Connect:
-🌐 GitHub https://github.com/rehannisar36
-💼 Open to collaboration on interesting projects!
+Others: GitHub Codespaces, Ubuntu Pro, Figma
 
-Contact me:
-  Mail rehan.nisar@mashedbytes.com
+📬 Let’s Connect
+🌐 GitHub: rehannisar36
+
+📧 Email: rehan.nisar@mashedbytes.com
+
+💼 Open to collaboration on interesting, impactful projects!
