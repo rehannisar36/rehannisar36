@@ -2,11 +2,13 @@
 
 I am a Full Stack Developer with a strong focus on **Ruby on Rails**, specializing in building **scalable, modular, and secure enterprise-grade web applications** with clean architecture and professional user experiences.
 
+I have experience developing **ERP systems, SaaS platforms, and enterprise business applications** with hardware integrations and real-world workflows.
+
 ---
 
 ## 💼 What I Build
 
-I develop complete **enterprise and business management systems**, including:
+I design and develop **complete enterprise and business management systems**, including:
 
 - **HR Management Systems**  
 - **Attendance & Workforce Tracking Systems** (punch in/out, breaks, manual logs, reports)  
@@ -15,10 +17,18 @@ I develop complete **enterprise and business management systems**, including:
 - **POS Systems** (billing, receipts, cashier workflows)  
 - **Clinic Management Systems** (patients, doctors, appointments, billing)  
 - **Patient Monitoring Systems** (records, logs, dashboards)  
-- **E-Commerce Systems**  
+- **E-Commerce Systems (Solidus / Custom Stores)**  
 - **Multi-Tenant SaaS Architectures** with subscription-based access control  
 
-I also create **reusable UI components and helpers**, and maintain **high test coverage** with automated testing.
+I also create **reusable UI components and helpers**, and maintain **high test coverage using automated testing frameworks**.
+
+---
+
+## 🧩 Hardware & Enterprise Integrations
+
+- **RFID card-based attendance systems integrated with gate pass and access control workflows**  
+- **Barcode scanner integrations for sales, purchase, inventory, and clinic workflows**  
+- Camera-based monitoring and hardware integrations  
 
 ---
 
@@ -26,8 +36,8 @@ I also create **reusable UI components and helpers**, and maintain **high test c
 
 - Application security and secure data handling  
 - Database hardening and performance optimization  
-- Hardware & camera integrations  
-- UI/UX micro-interactions and interactive features  
+- Enterprise hardware and IoT integrations  
+- UI/UX micro-interactions and interactive user experiences  
 
 ---
 
@@ -43,7 +53,7 @@ I also create **reusable UI components and helpers**, and maintain **high test c
 
 ### **Frameworks & Libraries**
 - Ruby on Rails  
-- Solidus  
+- Solidus (E-Commerce)  
 - Bootstrap  
 - Tailwind CSS  
 - StimulusJS  
@@ -66,9 +76,11 @@ I also create **reusable UI components and helpers**, and maintain **high test c
 
 ## 📌 Popular Projects
 
+*(Add your repositories here)*
+
 - **ERP Core System** – Multi-tenant SaaS with HR, attendance, inventory, sales, and POS modules  
-- **Clinic & Patient Monitoring System** – Appointment scheduling and patient tracking  
-- **E-Commerce Store Customization** – Enterprise e-commerce platform enhancements  
+- **Clinic & Patient Monitoring System** – Appointment scheduling and patient tracking platform  
+- **E-Commerce Store Customization** – Enterprise Solidus-based store enhancements  
 
 ---
 
@@ -76,4 +88,4 @@ I also create **reusable UI components and helpers**, and maintain **high test c
 
 - 🌐 GitHub: [rehannisar36](https://github.com/rehannisar36)  
 - 📧 Email: rehan.nisar@mashedbytes.com  
-- 💼 Open to collaboration on impactful and scalable projects  
+- 💼 Open to collaboration on scalable and impactful enterprise projects  
