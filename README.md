@@ -1,34 +1,79 @@
-👋 Hi, I'm Rehan – a passionate Full Stack Developer with a strong focus on Ruby on Rails. I specialize in crafting modular, scalable, and secure web applications with clean architecture and professional user experiences.
-💻 What I Do
-Build robust user and tenant management systems for multi-tenant architectures.
+# 👋 Hi, I’m Rehan — Full Stack Developer (Ruby on Rails)
 
-Design feature-rich admin dashboards with subscription-based access control.
+I am a Full Stack Developer with a strong focus on **Ruby on Rails**, specializing in building **scalable, modular, and secure enterprise-grade web applications** with clean architecture and professional user experiences.
 
-Develop advanced attendance systems with break tracking, punch in/out logs, and manual entries.
+---
 
-Implement reusable UI components, helpers, and write comprehensive test suites using RSpec and FactoryBot.
+## 💼 What I Build
 
-Optimize workflows using tools like Importmap and StimulusJS.
+I develop complete **enterprise and business management systems**, including:
 
-🚀 What I’m Excited About
-Strengthening app security through better authentication and secure data handling.
+- **HR Management Systems**  
+- **Attendance & Workforce Tracking Systems** (punch in/out, breaks, manual logs, reports)  
+- **Inventory Management Systems** (stock, warehouses, imports/exports)  
+- **Sales & Purchase Modules** (orders, invoices, vendors, pricing)  
+- **POS Systems** (billing, receipts, cashier workflows)  
+- **Clinic Management Systems** (patients, doctors, appointments, billing)  
+- **Patient Monitoring Systems** (records, logs, dashboards)  
+- **E-Commerce Systems**  
+- **Multi-Tenant SaaS Architectures** with subscription-based access control  
 
-Experimenting with camera integrations and database hardening practices.
+I also create **reusable UI components and helpers**, and maintain **high test coverage** with automated testing.
 
-Exploring creative touches in UI, like interactive birthday surprises 🎉 and micro-interactions to enhance engagement.
+---
 
-🛠 Tech Stack
-Languages: Ruby, JavaScript
+## 🚀 Currently Exploring
 
-Frameworks & Libraries: Ruby on Rails, Bootstrap, Tailwind CSS
+- Application security and secure data handling  
+- Database hardening and performance optimization  
+- Hardware & camera integrations  
+- UI/UX micro-interactions and interactive features  
 
-Testing Tools: RSpec, FactoryBot
+---
 
-Others: GitHub Codespaces, Ubuntu Pro, Figma
+## 🛠 Tech Stack
 
-📬 Let’s Connect
-🌐 GitHub: rehannisar36
+### **Languages**
+- HTML, CSS, JavaScript  
+- C, C++, Java  
+- Python  
+- Ruby (Ruby on Rails)  
+- PHP (WordPress)  
+- .NET  
 
-📧 Email: rehan.nisar@mashedbytes.com
+### **Frameworks & Libraries**
+- Ruby on Rails  
+- Solidus  
+- Bootstrap  
+- Tailwind CSS  
+- StimulusJS  
 
-💼 Open to collaboration on interesting, impactful projects!
+### **Databases**
+- **SQL:** MySQL, SQLite, PostgreSQL  
+- **NoSQL:** Firebase  
+
+### **Tools & Platforms**
+- Git, GitHub  
+- Ubuntu / Kali Linux (Bash & CLI)  
+- GitHub Codespaces  
+- Figma  
+
+### **Testing**
+- RSpec  
+- FactoryBot  
+
+---
+
+## 📌 Popular Projects
+
+- **ERP Core System** – Multi-tenant SaaS with HR, attendance, inventory, sales, and POS modules  
+- **Clinic & Patient Monitoring System** – Appointment scheduling and patient tracking  
+- **E-Commerce Store Customization** – Enterprise e-commerce platform enhancements  
+
+---
+
+## 📬 Connect With Me
+
+- 🌐 GitHub: [rehannisar36](https://github.com/rehannisar36)  
+- 📧 Email: rehan.nisar@mashedbytes.com  
+- 💼 Open to collaboration on impactful and scalable projects  
