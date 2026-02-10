@@ -75,9 +75,6 @@ I also create **reusable UI components and helpers**, and maintain **high test c
 ---
 
 ## 📌 Popular Projects
-
-*(Add your repositories here)*
-
 - **ERP Core System** – Multi-tenant SaaS with HR, attendance, inventory, sales, and POS modules  
 - **Clinic & Patient Monitoring System** – Appointment scheduling and patient tracking platform  
 - **E-Commerce Store Customization** – Enterprise Solidus-based store enhancements  
